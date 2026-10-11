@@ -1,0 +1,15 @@
+/home/darkeer/work/weather-report-task/obj/Debug/net10.0/weather-report-task.GeneratedMSBuildEditorConfig.editorconfig
+/home/darkeer/work/weather-report-task/obj/Debug/net10.0/weather-report-task.AssemblyInfoInputs.cache
+/home/darkeer/work/weather-report-task/obj/Debug/net10.0/weather-report-task.AssemblyInfo.cs
+/home/darkeer/work/weather-report-task/obj/Debug/net10.0/weather-report-task.csproj.CoreCompileInputs.cache
+/home/darkeer/work/weather-report-task/obj/Debug/net10.0/weather-report-task.sourcelink.json
+/home/darkeer/work/weather-report-task/bin/Debug/net10.0/weather-report-task
+/home/darkeer/work/weather-report-task/bin/Debug/net10.0/weather-report-task.deps.json
+/home/darkeer/work/weather-report-task/bin/Debug/net10.0/weather-report-task.runtimeconfig.json
+/home/darkeer/work/weather-report-task/bin/Debug/net10.0/weather-report-task.dll
+/home/darkeer/work/weather-report-task/bin/Debug/net10.0/weather-report-task.pdb
+/home/darkeer/work/weather-report-task/obj/Debug/net10.0/weather-report-task.dll
+/home/darkeer/work/weather-report-task/obj/Debug/net10.0/refint/weather-report-task.dll
+/home/darkeer/work/weather-report-task/obj/Debug/net10.0/weather-report-task.pdb
+/home/darkeer/work/weather-report-task/obj/Debug/net10.0/weather-report-task.genruntimeconfig.cache
+/home/darkeer/work/weather-report-task/obj/Debug/net10.0/ref/weather-report-task.dll
